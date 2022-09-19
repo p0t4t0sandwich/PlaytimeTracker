@@ -1,0 +1,4 @@
+name: PlaytimeTracker
+version: '${project.version}'
+main: ca.sperrer.bungee.PlaytimeTracker
+author: p0t4t0sandwich
